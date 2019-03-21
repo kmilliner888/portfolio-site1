@@ -96,10 +96,43 @@ textarea {
  /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    width: 100%;
+    height: auto;
+}
+
+.km img {
+    width: 300px;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    
+}
 
 
 
+.github img {
+    width: 50px;
+}
 
+.codepen img {
+    width: 50px;
+}
+
+.linkedin img {
+    width: 50px;
+}
+
+.twitter img {
+    width: 50px;
+}
 
 
 

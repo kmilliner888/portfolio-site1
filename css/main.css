@@ -143,6 +143,7 @@ nav ul li a {
     font-size: 19px;
     font-family: 'Kalam', sans-serif;
     font-weight: normal;
+    line-height: 30px;
     padding: 0px 10px 0px 10px;
 }
 
@@ -152,8 +153,31 @@ nav ul li a {
     padding: 0px 15px 0px 0px;
 }
 
+/* i   {
+    display: inline-block;
+    width: 40px;
+    padding: 10px 30px 10px 30px;
+} */
 
 
+#work h2 {
+    font-size: 30px;
+    font-weight: normal;
+    color: #6d6d6d;
+    padding: 10px 15px 10px 15px;
+}
+
+
+.lang-icons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.lang-icons img {
+    text-align: center;
+    width: 50px;
+}
 
 .github img {
     width: 50px;

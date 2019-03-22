@@ -104,7 +104,13 @@ body {
 }
 
 .km img {
-    width: 300px;
+    width: 100%;
+    padding: 10px 0px 0px 0px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 10px 0px 10px 30px;
 }
 
 nav ul li {
@@ -113,8 +119,39 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    
+    color: #6d6d6d;
+    font-size: 16px; 
 }
+
+.about1 {
+    padding: 10px 0px 0px 0px;
+}
+
+.about1 img {
+    display: block;
+    float: left;
+    width: 150px;
+    padding: 0px 0px 0px 15px;
+}
+
+.about1 p {
+    font-size: 16px;
+    padding: 0px 15px 0px 15px;
+}
+
+.about1 h1 {
+    font-size: 19px;
+    font-family: 'Kalam', sans-serif;
+    font-weight: normal;
+    padding: 0px 10px 0px 10px;
+}
+
+.about1 h1 span {
+    background-color: #ffff00;
+    background-image: linear-gradient(to left, #ffffcc 0%, #ffff00 100%);
+    padding: 0px 15px 0px 0px;
+}
+
 
 
 
